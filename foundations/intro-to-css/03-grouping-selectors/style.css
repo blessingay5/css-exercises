@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.pretty,
+.strong{
+    font-size: 28px;
+    font-family: Helvetica, Times 'Times New Roman', sans-serif;
+
+}
+.pretty{
+    color: #ffffff;
+    background-color: black;
+}
+.strong{
+    background-color: yellow;
+}
